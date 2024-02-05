@@ -18,3 +18,5 @@ Por ultimo se debe de indicar la ruta en la cual se encuentra el archivo, esto s
     file_path = 'Your CSV file'                  /// Precisamente en esta seccion
 
 Una vez se hayan llenado estos campos se puede proceder a ejecutar el código en el IDE o editor de texto de preferencia.
+
+(En caso de no dar los resultados revisar el archivo CSV ya que por su naturaleza pierde archivos al intentar ser modificado)
